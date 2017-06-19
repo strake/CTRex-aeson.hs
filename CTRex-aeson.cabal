@@ -19,7 +19,7 @@ library
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.9 && <5
-                     , CTRex >=0.7
+                     , CTRex >=0.6
                      , aeson
                      , text
                      , unordered-containers

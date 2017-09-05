@@ -22,6 +22,7 @@ library
                      , CTRex >=0.7
                      , aeson
                      , text
+                     , unconstrained >=0.1.0.1
                      , unordered-containers
   -- hs-source-dirs:      
   default-language:    Haskell2010
